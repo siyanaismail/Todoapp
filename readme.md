@@ -1,4 +1,4 @@
-# ✅ Console-Based To-Do List App (Python)
+#  Console-Based To-Do List App (Python)
 
 A simple and friendly *Command Line Interface (CLI)* To-Do List application built with Python. This app allows users to *add, **view, and **remove* tasks, with automatic file storage for task persistence.
 
@@ -9,8 +9,6 @@ A simple and friendly *Command Line Interface (CLI)* To-Do List application buil
 -  Remove completed tasks
 -  Automatically saves tasks to a text file (todo.txt)
 -  Beginner-friendly, well-commented Python code
-
----
 
 ##  Tools Used
 
@@ -45,7 +43,6 @@ python todo.py
 4. Exit
 ===============================
  Enter your choice (1-4):
-
 
 
 ## Output Example
